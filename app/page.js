@@ -5,51 +5,41 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>app/page.js</code>
-        </p>
-        <div>
-          <a
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{" "}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className={styles.vercelLogo}
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
-        </div>
-      </div>
-
-      <div className={styles.center}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-      </div>
-
-      <div className={styles.grid}>
         <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="https://github.com/qj1e7/nextjs-cloudrun-app"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
-            Docs <span>-&gt;</span>
+            <span>-&gt;</span> Click here to access the GitHub Repository
           </h2>
-          <p>Find in-depth information about Next.js features and API.</p>
+        </a>
+        <div>
+          <a
+            href="www.linkedin.com/in/jacksonqianjie"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Done By <h1>Qian Jie</h1>
+          </a>
+        </div>
+      </div>
+
+      <div className={styles.center}>
+        <h1>NUS FinTech Programme - DevOps Course</h1>
+      </div>
+
+      <div className={styles.grid}>
+        {/* <a
+          href="https://github.com/qj1e7/nextjs-cloudrun-app"
+          className={styles.card}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2>
+            GitHub Actions <span>-&gt;</span>
+          </h2>
         </a>
 
         <a
@@ -59,9 +49,8 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Learn <span>-&gt;</span>
+            Docker <span>-&gt;</span>
           </h2>
-          <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
         </a>
 
         <a
@@ -71,9 +60,8 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Templates <span>-&gt;</span>
+            Google Cloud <span>-&gt;</span>
           </h2>
-          <p>Explore starter templates for Next.js.</p>
         </a>
 
         <a
@@ -83,12 +71,10 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Deploy <span>-&gt;</span>
+            LinkedIn <span>-&gt;</span>
           </h2>
-          <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
-          </p>
-        </a>
+          <p>Find out my LinkedIn profile here :D</p>
+        </a> */}
       </div>
     </main>
   );
