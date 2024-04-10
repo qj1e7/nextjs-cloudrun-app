@@ -109,3 +109,11 @@ https://nextjs-cloudrun-app-bsoytgtoqq-ue.a.run.app/
 Summary:
 
 After learning DevOps, I've gained a comprehensive understanding of how to optimize software development and deployment processes through collaboration, automation, and continuous improvement. I've learned to integrate development and operations seamlessly, employing tools and practices such as continuous integration, continuous delivery/deployment, and infrastructure as code. This holistic approach has equipped me with the skills to streamline workflows, enhance team collaboration, and deliver high-quality software more efficiently. With a focus on automation and monitoring, I'm empowered to drive continuous innovation, ensuring that software is delivered reliably and at scale. Overall, my journey in learning DevOps has provided me with the tools and mindset necessary to succeed in today's dynamic and fast-paced software development landscape.
+
+References:
+
+[Deploying NextJS to Google CloudRun using Github Actions](https://www.youtube.com/watch?v=IjUnQ9kMnVo&t=1225s)
+
+[Deploy Next JS App to Google Cloud Run with Github Actions CI/CD - A Complete Guide](https://dev.to/rushi-patel/deploy-next-js-app-to-google-cloud-run-with-github-actions-cicd-a-complete-guide-l29)
+
+[Prof Uli's GitHub DevOps Repo](https://github.com/u1i/devops-course)
